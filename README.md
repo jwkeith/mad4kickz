@@ -5,7 +5,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 
-**Mad4kickz** es un catálogo web responsivo y moderno especializado en la presentación e interactividad de calzado deportivo (On Running) para hombres y mujeres.
+**Mad4kickz** es un catálogo web responsivo y moderno especializado en la presentación e interactividad de calzado deportivo (*On Running*) para hombres y mujeres.
 
 👉 **Sitio en vivo:** [https://jwkeith.github.io/mad4kickz/](https://jwkeith.github.io/mad4kickz/)
 
@@ -19,7 +19,7 @@
 
 ## ✨ Características Principales
 
-- 👨‍🦱👩 **Navegación por Categorías:** Secciones exclusivas para catálogo de [Hombre](hombre.html), [Mujer](mujer.html) y [Ofertas](ofertas.html).
+- 👨‍🦱👩 **Navegación por Categorías:** Secciones exclusivas para el catálogo de [Hombre](hombre.html), [Mujer](mujer.html) y [Ofertas](ofertas.html).
 - 🔍 **Filtros e Interacción:** Búsqueda y filtrado interactivo por rango de precios y tipos de calzado.
 - 📱 **Diseño Responsivo:** Interfaz adaptada a dispositivos móviles, tablets y computadoras de escritorio.
 - 💬 **Contacto Directo:** Integración de enlaces rápidos para atención e interacción inmediata.
@@ -29,7 +29,7 @@
 ## 🛠️ Tecnologías Utilizadas
 
 - **HTML5:** Estructura semántica de las páginas.
-- **CSS3:** Estilos, layout y adaptabilidad responsive.
+- **CSS3:** Estilos, layout y adaptabilidad *responsive*.
 - **JavaScript (ES6):** Lógica de filtrado e interactividad dinámica del catálogo.
 - **GitHub Pages:** Alojamiento y despliegue continuo del sitio web.
 
